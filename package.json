@@ -1,0 +1,8 @@
+{
+  "name": "consoleapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cli-table3": "^0.6.3"
+  }
+}
